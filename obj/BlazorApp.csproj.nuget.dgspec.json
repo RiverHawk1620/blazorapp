@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\_programming\\blazor\\BlazorApp\\BlazorApp.csproj": {}
+    "c:\\_programming\\blazor\\BlazorApp\\BlazorApp.csproj": {}
   },
   "projects": {
-    "C:\\_programming\\blazor\\BlazorApp\\BlazorApp.csproj": {
+    "c:\\_programming\\blazor\\BlazorApp\\BlazorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_programming\\blazor\\BlazorApp\\BlazorApp.csproj",
+        "projectUniqueName": "c:\\_programming\\blazor\\BlazorApp\\BlazorApp.csproj",
         "projectName": "BlazorApp",
-        "projectPath": "C:\\_programming\\blazor\\BlazorApp\\BlazorApp.csproj",
+        "projectPath": "c:\\_programming\\blazor\\BlazorApp\\BlazorApp.csproj",
         "packagesPath": "C:\\Users\\tfor010322\\.nuget\\packages\\",
-        "outputPath": "C:\\_programming\\blazor\\BlazorApp\\obj\\",
+        "outputPath": "c:\\_programming\\blazor\\BlazorApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tfor010322\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.46, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

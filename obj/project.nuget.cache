@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "wrsnCHGsBD5bd01Xc9aqzcEJaYmqiB4cCA046JJNc1u8iOMINNs+QZbxcbrMF0j1DJJddFxMkzuAhaMAjOeXgA==",
+  "dgSpecHash": "lwJu3ta8J839fQ86/GVnXnFwePVXN3xwCQ4TOiki5A21oYchFbt6RJIQORvUkAXRpnJs4e7AKUEIRTc/X+4WoQ==",
   "success": true,
-  "projectFilePath": "C:\\_programming\\blazor\\BlazorApp\\BlazorApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "c:\\_programming\\blazor\\BlazorApp\\BlazorApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tfor010322\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
   "logs": []
 }
